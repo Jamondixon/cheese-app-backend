@@ -1,0 +1,2 @@
+class Queso < ApplicationRecord
+end
